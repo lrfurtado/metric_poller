@@ -1,0 +1,14 @@
+package: github.com/lrfurtado/metrics_poller
+homepage: https://github.com/lrfurtado
+license: Proprietary
+owners:
+- name: Luciano Furtado
+  email: lrfurtado@gmail.com
+  homepage: http://luciano.company
+import:
+- package: github.com/spf13/viper
+- package: github.com/sirupsen/logrus
+- package: golang.org/x/crypto/ssh/terminal
+- package: github.com/olekukonko/tablewriter
+- package: github.com/mattn/go-runewidth
+
