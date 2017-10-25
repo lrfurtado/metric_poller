@@ -4,10 +4,10 @@ This tool will agregate metrics across a fleet of servers by hitting /status end
 
  
 ### Build Instructions on MAC with brew installed
-git clone https://github.com/lrfurtado/metric_poller metrics_poller
-cd metrics_poller
-make deps
-make
+1. git clone https://github.com/lrfurtado/metric_poller metrics_poller
+1. cd metrics_poller
+1. make deps
+1. make
 
 ### Test instructions 
 
